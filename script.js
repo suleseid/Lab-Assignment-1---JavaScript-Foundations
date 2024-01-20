@@ -1,5 +1,5 @@
 //1--Create two variables, firstName and lastName, and assign 
-//your first and last names as values to them. 
+//Our first and last names as values. 
 let firstName = "Suleman";
 let lastName = "Seid";
 
